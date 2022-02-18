@@ -1,0 +1,15 @@
+.expenses {
+  padding: 1rem;
+  background-color: #694E4E;
+  margin: 2rem auto;
+  width: 50rem;
+  max-width: 95%;
+}
+
+.nothing{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  margin: 10px;
+}
